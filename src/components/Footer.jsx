@@ -39,8 +39,8 @@ const Footer = () => {
         </div>
         <p>Москва, Путевой проезд 3с1, к 902</p>
         <div className="flex flex-col text-[14px] mt-10">
-        <a href="#">©WELBEX 2022. Все права защищены.</a>
-        <a href="#" className="text-right max-[1040px]:text-start">Политика конфиденциальности</a>
+        <a href="https://github.com/shahaCoder/timer_test.git">©WELBEX 2022. Все права защищены.</a>
+        <a href="https://github.com/shahaCoder/timer_test.git" className="text-right max-[1040px]:text-start">Политика конфиденциальности</a>
         </div>
       </div>
     </div>
